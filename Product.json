@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Solar LED String Lights",
+        "price": 799,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Bamboo Bluetooth Speaker",
+        "price": 999,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Wireless Earbuds",
+        "price": 899,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "name": "Smart LED Bulb",
+        "price": 599,
+        "image": "https://via.placeholder.com/150"
+    }
+]
